@@ -1,3 +1,2 @@
 New log file
-second edit
-third edit
+seond edit
